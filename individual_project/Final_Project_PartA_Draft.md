@@ -91,6 +91,9 @@ A good state of globalization is defined by a high GDP. In 2015, the Maldives ha
 
 Industrialization is another indicator of globalization. It stands for a better standard of living. It generates jobs for people, lowers the unemployment rate. One of the key benefits of globalization is that it allows businesses to offer affordable items to clients by mass-producing things in convenient locations. This means that there are more products available and they are less expensive, which gives firms a competitive advantage.
 
+![](industry1.jpg)
+![](industry2.png)
+
 Bhutan was in a favorable situation in 2015, but that status deteriorated since then. Other countries' contributions to adding value to GDP in the industry have increased, accelerating these countries' economic growth.
 
 
@@ -105,6 +108,8 @@ Industrialization, according to research, is the leading cause of air pollution.
 **3.3.1 CO2 Emission**
 
 Bhutan and the Maldives are the most vulnerable countries, with carbon dioxide emissions rising at an unprecedented rate in 2018. Other countries' CO2 emissions have increased as well, though not as dramatically as Bhutan and the Maldives.
+![](CO2_1.jpg)
+![](CO2_2.jpg)
 
 Climate change impacts such as sea level rise, ocean acidification, and extreme weather events are extremely likely to affect the Maldives, and CO2 plays a significant role in this. Former Maldives President Nasheed declared in 2009 that the country would be carbon neutral by 2020. However, by 2018, its carbon dioxide emissions had skyrocketed. Despite the government's efforts, the country's adoption of solar PV systems confronts considerable obstacles due to a lack of technical capacity, cost, and other factors. But The Maldives has committed to a 10% reduction in carbon emissions by 2030 [4].
 
@@ -114,11 +119,15 @@ Bhutan emits more CO2 than it takes out of the atmosphere, despite the fact that
 
 Forest land is determined by the country itself. Currently forest covers 31% of the world land which is on the verge of declining. Countries should try to maintain the 30% of the forest area to have a habitat for tribal people, birds. Animals, trees etc. according to national forest policy 1988, india, It should have 33% of land area under forest cover[6] where in 2020, it had 24% . Excpect Bhutan, Napal and Sri Lanka, other countries are under 30%.
 
+![](forest.jpg)
+
 This is alarming because the world has lost one-third of its forest, yet an end of deforestation may recover the damage. To preserve the existing forest area, we must keep our forest area to a minimum of 30% and make every effort to expand it. As a result, global warming will be reduced, and the globe will be protected from climatal disturbance [7].
 
 ## **3.4 Forest Rent To The Rescue**
 
 There are still time to recover from this situation.  Plethora of options for preserving our environment are available. We must need to have the intention to care for our enviroment.
+
+![](rent.jpg)
  
 Increasing forest rent is one of the options. One of the best  ways  to protect forests is to increase forest rent over time. Only India's forest rent has increased over the years, according to the 2019 graph. Other has declined with time. Forest rent increases will benefit the forest in two ways: first, they will add to GDP, and second, they will preserve the forest.
 
