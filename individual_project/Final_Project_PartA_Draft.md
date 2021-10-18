@@ -80,8 +80,12 @@ It is defined as a combination of GDP, industrialization, and the Human Developm
 
 
 **3.2.1 GDP Per Capita**
+![](GDP1.jpg)
+![](GDP2.jpg)
 
 A good state of globalization is defined by a high GDP. In 2015, the Maldives had the highest GDP per capita than any country. It has declined over time, despite having the greatest GDP in 2020. From 2015 to 2020, the GDP of other countries grew. One of the most powerful indicators of overall economic growth is GDP. As a result, we may infer that from 2015 to 2020, South Asian countries had economic development.
+
+
 
 **3.2.2 Industrialization**
 
