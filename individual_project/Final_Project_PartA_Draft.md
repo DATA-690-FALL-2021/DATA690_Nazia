@@ -38,9 +38,9 @@ We are compromising the globalization's detrimental consequences with the envi
 3.   India
 4.   Pakistan
 5.   Nepal
-6.  Bhutan
-7. Sri Lanka
-8.  Afganistan 
+6.   Bhutan
+7.   Sri Lanka
+8.   Afganistan 
 
 
 
@@ -51,9 +51,9 @@ We are compromising the globalization's detrimental consequences with the envi
 
 1.   GDP Per Capita
 2.   Industry (including construction) , Value Added (% of GDP)
-3. CO2 Emission (Metric Ton Per Capita)
-4. Forest Area(% of Land Area)
-5. Forest Rent (% of GDP) *
+3.   CO2 Emission (Metric Ton Per Capita)
+4.   Forest Area(% of Land Area)
+5.   Forest Rent (% of GDP) *
 
 
 
@@ -142,10 +142,9 @@ We must not forget this is the world we have to live in. We have to make it habi
 
 
 1.   https://www.nytimes.com/interactive/2019/09/25/climate/un-net-zero-emissions.html
-2.(https://en.wikipedia.org/wiki/Globalization
-3. https://www.investopedia.com/articles/economics/10/globalization-developed-countries.asp#:~:text=Globalization%20is%20a%20combination%20of%20gross%20domestic%20product,international%20trade%2C%20and%20the%20integration%20of%20financial%20markets.
-)
-4.https://maldivesindependent.com/business/maldives-pledges-10-percent-reduction-in-carbon-emissions-by-2030-117744
-5.https://www.cnn.com/2018/10/11/asia/bhutan-carbon-negative/index.html
-6. National Forest Policy in India: Critique of Targets and Implementation-https://link.springer.com/article/10.1007/s11842-010-9133-z
-7.https://ourworldindata.org/world-lost-one-third-forests
+2.   https://en.wikipedia.org/wiki/Globalization
+3.   https://www.investopedia.com/articles/economics/10/globalization-developed-countries.asp#:~:text=Globalization%20is%20a%20combination%20of%20gross%20domestic%20product,international%20trade%2C%20and%20the%20integration%20of%20financial%20markets.
+4.   https://maldivesindependent.com/business/maldives-pledges-10-percent-reduction-in-carbon-emissions-by-2030-117744
+5.   https://www.cnn.com/2018/10/11/asia/bhutan-carbon-negative/index.html
+6.   National Forest Policy in India: Critique of Targets and Implementation-https://link.springer.com/article/10.1007/s11842-010-9133-z
+7.   https://ourworldindata.org/world-lost-one-third-forests
