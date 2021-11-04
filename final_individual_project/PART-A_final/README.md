@@ -1,4 +1,4 @@
-# **Final Project Part 1- Draft Version**
+# **Final Project Part 1**
 - Student Name: Nazia Noor
 - Instructor: Dr. Jay Wang
 - Course: Stats & Viz (DATA690)
