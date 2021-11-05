@@ -114,8 +114,6 @@ Industrialization, according to research, is the leading cause of air pollution.
 **3.3.1 CO2 Emission**
 
 Bhutan and the Maldives are the most vulnerable countries, with carbon dioxide emissions rising at an unprecedented rate in 2018. Other countries' CO2 emissions have increased as well, though not as dramatically as Bhutan and the Maldives.
-![](CO2_1.png)
-![](CO2_2.png)
 
 
 Climate change impacts such as sea-level rise, ocean acidification, and extreme weather events are extremely likely to affect the Maldives, and CO2 plays a significant role in this. Former Maldives President Nasheed declared in 2009 that the country would be carbon neutral by 2020. However, by 2018, its carbon dioxide emissions had skyrocketed. Despite the government's efforts, the country's adoption of solar PV systems confronts considerable obstacles due to a lack of technical capacity, cost, and other factors. But The Maldives has committed to a 10% reduction in carbon emissions by 2030 [6].
