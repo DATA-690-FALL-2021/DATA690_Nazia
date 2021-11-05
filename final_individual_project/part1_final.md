@@ -114,8 +114,6 @@ Industrialization, according to research, is the leading cause of air pollution.
 **3.3.1 CO2 Emission**
 
 Bhutan and the Maldives are the most vulnerable countries, with carbon dioxide emissions rising at an unprecedented rate in 2018. Other countries' CO2 emissions have increased as well, though not as dramatically as Bhutan and the Maldives.
-![](CO2_1.png)
-![](CO2_2.png)
 
 
 Climate change impacts such as sea-level rise, ocean acidification, and extreme weather events are extremely likely to affect the Maldives, and CO2 plays a significant role in this. Former Maldives President Nasheed declared in 2009 that the country would be carbon neutral by 2020. However, by 2018, its carbon dioxide emissions had skyrocketed. Despite the government's efforts, the country's adoption of solar PV systems confronts considerable obstacles due to a lack of technical capacity, cost, and other factors. But The Maldives has committed to a 10% reduction in carbon emissions by 2030 [6].
@@ -126,7 +124,7 @@ Bhutan emits more CO2 than it takes out of the atmosphere, despite the fact that
 
 Forest land is determined by the country itself. Currently, forest covers 31% of the world land which is on the verge of declining. Countries should try to maintain 30% of the forest area to have a habitat for tribal people, birds. Animals, trees, etc. according to national forest policy 1988, India, there should have 33% of the land area under forest cover[8] wherein 2020, it had 24%. Except Bhutan, Nepal, and Sri Lanka, other countries are under 30%.
 
-![](forest.jpg)
+![](forest.png)
 
 This is alarming because the world has lost one-third of its forest, yet an end of deforestation may recover the damage. To preserve the existing forest area, we must keep our forest area to a minimum of 30% and make every effort to expand it. As a result, global warming will be reduced, and the globe will be protected from climatal disturbance [9].
 
